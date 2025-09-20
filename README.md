@@ -1,7 +1,5 @@
 # AI-Powered Video Categorization System 🎥🤖
 
-![Project Logo](path-to-your-main-image.png)
-
 **Classify videos into multiple activity categories with high accuracy using AutoML Vertex AI on Google Cloud Platform.**
 
 ---

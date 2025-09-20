@@ -32,7 +32,7 @@ This project implements an **AI-powered video categorization system** capable of
 
 | Category | Example Image |
 |----------|---------------|
-| Activity 1 | ![Category 1](path-to-category1-image.png) |
+| Activity 1 | ![Category 1](C:\Users\vaibh\OneDrive\Pictures\Screenshots\Screenshot 2025-09-20 131256.png) |
 | Activity 2 | ![Category 2](path-to-category2-image.png) |
 | Activity 3 | ![Category 3](path-to-category3-image.png) |
 | Activity 4 | ![Category 4](path-to-category4-image.png) |

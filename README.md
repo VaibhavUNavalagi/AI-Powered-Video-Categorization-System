@@ -22,4 +22,20 @@ This project implements an **AI-powered video categorization system** capable of
 - Trains video classification models using AutoML Vertex AI  
 - Supports multiple activity categories (space below for images)  
 - Easy integration with video processing pipelines  
-- Cloud-based solution ensures scalability and low latency  
+- Cloud-based solution ensures scalability and low latency
+
+
+## Paradise Nursery - Landing page
+![Paradise Nursery - Landing page](https://github.com/user-attachments/assets/5d80382d-4432-405c-ae7c-ede4f8fcab38)
+
+## Displaying Plants
+![Displaying Plants](https://github.com/user-attachments/assets/e945fe62-8f7f-46cb-8c7a-8c2d77001db6)
+
+## Checking out
+![Checking out](https://github.com/user-attachments/assets/bdf08a97-1138-49f5-8a68-4d25471de5af)
+
+## Sample Receipt
+![Sample Receipt](https://github.com/user-attachments/assets/4eb753e5-71f5-4ecf-9141-17064f7d772d)
+
+## Live Demo: Desktop view
+[Click here](https://vaibhavunavalagi.github.io/react/)

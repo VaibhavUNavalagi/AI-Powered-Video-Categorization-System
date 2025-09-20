@@ -24,17 +24,17 @@ This project implements an **AI-powered video categorization system** capable of
 - Easy integration with video processing pipelines  
 - Cloud-based solution ensures scalability and low latency
 
-## Cart-wheel
+## Ride-horse
 <img width="1919" height="865" alt="Image" src="https://github.com/user-attachments/assets/6cad6491-2415-4614-8b81-8cc13c929340" />
 
-## Golf
+## Pull-up
 <img width="1919" height="867" alt="Image" src="https://github.com/user-attachments/assets/32af7a01-97d3-47fb-add6-66f21b64048c" />
 
-## Kick-ball
+## Cart-wheel
 <img width="1919" height="867" alt="Image" src="https://github.com/user-attachments/assets/fe8b599c-8f2b-4b35-8ba0-508b7bce1085" />
 
-## Pull-up
+## Golf
 <img width="1919" height="865" alt="Image" src="https://github.com/user-attachments/assets/0563a68b-e7e2-4130-8981-1c181690cf93" />
 
-## Ride-horse
+## Kick-ball
 <img width="1919" height="863" alt="Image" src="https://github.com/user-attachments/assets/89eb4bbb-04b8-4752-9d46-508d07e00321" />

@@ -26,7 +26,7 @@ This project implements an **AI-powered video categorization system** capable of
 
 
 ## Paradise Nursery - Landing page
-![Paradise Nursery - Landing page](https://github.com/user-attachments/assets/5d80382d-4432-405c-ae7c-ede4f8fcab38)
+![Paradise Nursery - Landing page](https://github.com/user-attachments/assets/new-image.png)
 
 ## Displaying Plants
 ![Displaying Plants](https://github.com/user-attachments/assets/e945fe62-8f7f-46cb-8c7a-8c2d77001db6)

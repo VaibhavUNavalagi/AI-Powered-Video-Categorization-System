@@ -24,18 +24,17 @@ This project implements an **AI-powered video categorization system** capable of
 - Easy integration with video processing pipelines  
 - Cloud-based solution ensures scalability and low latency
 
+## Cart-wheel
+<img width="1919" height="865" alt="Image" src="https://github.com/user-attachments/assets/6cad6491-2415-4614-8b81-8cc13c929340" />
 
-## Paradise Nursery - Landing page
+## Golf
+<img width="1919" height="867" alt="Image" src="https://github.com/user-attachments/assets/32af7a01-97d3-47fb-add6-66f21b64048c" />
+
+## Kick-ball
+<img width="1919" height="867" alt="Image" src="https://github.com/user-attachments/assets/fe8b599c-8f2b-4b35-8ba0-508b7bce1085" />
+
+## Pull-up
+<img width="1919" height="865" alt="Image" src="https://github.com/user-attachments/assets/0563a68b-e7e2-4130-8981-1c181690cf93" />
+
+## Ride-horse
 <img width="1919" height="863" alt="Image" src="https://github.com/user-attachments/assets/89eb4bbb-04b8-4752-9d46-508d07e00321" />
-
-## Displaying Plants
-![Displaying Plants]([https://github.com/user-attachments/assets/e945fe62-8f7f-46cb-8c7a-8c2d77001db6](https://github.com/VaibhavUNavalagi/AI-Powered-Video-Categorization-System/blob/main/Screenshot%202025-09-20%20131324.png?raw=true))
-
-## Checking out
-![Checking out](https://github.com/user-attachments/assets/bdf08a97-1138-49f5-8a68-4d25471de5af)
-
-## Sample Receipt
-![Sample Receipt](https://github.com/user-attachments/assets/4eb753e5-71f5-4ecf-9141-17064f7d772d)
-
-## Live Demo: Desktop view
-[Click here](https://vaibhavunavalagi.github.io/react/)
